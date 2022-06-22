@@ -11,5 +11,5 @@ client = commands.Bot(command_prefix="kas?", intents = discord.Intents.all())
 for i in range(len(cogs)):
     cogs[i].setup(client)
 
-client.run()
+client.run(ENTER TOKEN HERE)
 
