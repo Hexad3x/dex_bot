@@ -1,0 +1,9 @@
+23.06.2022
+----------
+
+- prefix changed from "kas?" to "$"
+- commands "disconnect" changed to "leave"
+- added the ability to join a channel when "play" is used. So that users won't have to "join" first
+- fixed pause and resume to display text when used
+- added the ability to the "play" command to search youtube through simple text-input
+
